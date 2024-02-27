@@ -1,0 +1,15 @@
+C:\Users\BEGUM_ACAR\source\repos\CafeMgmtVB\CafeMgmtVB\bin\Debug\CafeMgmtVB.exe.config
+C:\Users\BEGUM_ACAR\source\repos\CafeMgmtVB\CafeMgmtVB\bin\Debug\CafeMgmtVB.exe
+C:\Users\BEGUM_ACAR\source\repos\CafeMgmtVB\CafeMgmtVB\bin\Debug\CafeMgmtVB.pdb
+C:\Users\BEGUM_ACAR\source\repos\CafeMgmtVB\CafeMgmtVB\bin\Debug\CafeMgmtVB.xml
+C:\Users\BEGUM_ACAR\source\repos\CafeMgmtVB\CafeMgmtVB\obj\Debug\CafeMgmtVB.vbproj.AssemblyReference.cache
+C:\Users\BEGUM_ACAR\source\repos\CafeMgmtVB\CafeMgmtVB\obj\Debug\CafeMgmtVB.Login.resources
+C:\Users\BEGUM_ACAR\source\repos\CafeMgmtVB\CafeMgmtVB\obj\Debug\CafeMgmtVB.Items.resources
+C:\Users\BEGUM_ACAR\source\repos\CafeMgmtVB\CafeMgmtVB\obj\Debug\CafeMgmtVB.Resources.resources
+C:\Users\BEGUM_ACAR\source\repos\CafeMgmtVB\CafeMgmtVB\obj\Debug\CafeMgmtVB.Orders.resources
+C:\Users\BEGUM_ACAR\source\repos\CafeMgmtVB\CafeMgmtVB\obj\Debug\CafeMgmtVB.ViewOrders.resources
+C:\Users\BEGUM_ACAR\source\repos\CafeMgmtVB\CafeMgmtVB\obj\Debug\CafeMgmtVB.vbproj.GenerateResource.cache
+C:\Users\BEGUM_ACAR\source\repos\CafeMgmtVB\CafeMgmtVB\obj\Debug\CafeMgmtVB.vbproj.CoreCompileInputs.cache
+C:\Users\BEGUM_ACAR\source\repos\CafeMgmtVB\CafeMgmtVB\obj\Debug\CafeMgmtVB.exe
+C:\Users\BEGUM_ACAR\source\repos\CafeMgmtVB\CafeMgmtVB\obj\Debug\CafeMgmtVB.xml
+C:\Users\BEGUM_ACAR\source\repos\CafeMgmtVB\CafeMgmtVB\obj\Debug\CafeMgmtVB.pdb
