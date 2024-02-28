@@ -65,6 +65,28 @@ Public Class Orders
     Dim i = 0, GrdTotal = 0, price, qty
 
     Private Sub AddBill()
+
+        Try
+            Con.Open()
+
+            ' Parametreli SQL sorgusu
+            Dim query As String = "INSERT INTO OrderTbl (OrderDate, OrderAmt) VALUES (@OrderDate, @OrderAmt)"
+            Dim cmd As SqlCommand = New SqlCommand(query, Con)
+
+            ' Parametreleri ekle
+            cmd.Parameters.AddWithValue("@OrderDate", DateTime.Today.Date)
+            cmd.Parameters.AddWithValue("@OrderAmt", GrdTotal)
+
+            ' Sorguyu çalıştır
+            cmd.ExecuteNonQuery()
+
+            MsgBox("Bill Added")
+        Catch ex As Exception
+            MsgBox("Error: " & ex.Message)
+        Finally
+            Con.Close()
+        End Try
+
         'Con.Open()
         'Dim query = "insert into OrderTbl values('" & DateTime.Today.Date & "'," & GrdTotal & ")"
         'Dim cmd As SqlCommand
@@ -75,7 +97,7 @@ Public Class Orders
     End Sub
 
     Private Sub Button2_Click(sender As Object, e As EventArgs) Handles Button2.Click
-        'AddBill()
+        AddBill()
         PrintPreviewDialog1.Show()
     End Sub
 
